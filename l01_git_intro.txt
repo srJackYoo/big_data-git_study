@@ -8,4 +8,8 @@
 
 5. git add * 로 감시할 파일 추가
 
-6. git commit으로 저장소에 저장하기 (파일 또는 스냅샷)
+6. git commit "#" 으로 저장소에 저장하기 (파일 또는 스냅샷)
+
+7. git status로 저장할 수 있는 상태인지 검사
+
+8. git log --oneline --decorate --graph --all 로 커밋 이력 확인하기
