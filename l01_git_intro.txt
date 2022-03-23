@@ -4,12 +4,14 @@
 
 3. git으로 관리할 프로젝트 폴더로 이동해서 터미널 열기(or git bash)
 
-4. git inhit 명령어로 git 저장소 생성
+4. 파일 생성 후 저장
 
-5. git add * 로 감시할 파일 추가
+5. git inhit 명령어로 git 저장소 생성
 
-6. git commit "#" 으로 저장소에 저장하기 (파일 또는 스냅샷)
+6. git add * 로 감시할 파일 추가
 
-7. git status로 저장할 수 있는 상태인지 검사
+7. git commit "#" 으로 저장소에 저장하기 (파일 또는 스냅샷)
 
-8. git log --oneline --decorate --graph --all 로 커밋 이력 확인하기
+8. git status로 저장할 수 있는 상태인지 검사
+
+9. git log --oneline --decorate --graph --all 로 커밋 이력 확인하기
